@@ -1,0 +1,9 @@
+name: ChatColors
+description: Give your players a EULA friendly donation perk!
+version: 2.0
+author: Vanishedd
+main: com.vanishedd.chatcolors.ChatColors
+commands:
+  chatcolor:
+    description: Choose your chat color and modifier.
+    aliases: [chatcolors]

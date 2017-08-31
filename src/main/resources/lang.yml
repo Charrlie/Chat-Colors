@@ -1,0 +1,9 @@
+prefix: "&7&l(&6&lChat Colors&7&l) &7"
+
+missing-permission: "You don't have permission to do this (&e%permission&7)!"
+
+chatcolor-reset: "Your chat color has been reset."
+chatcolor-set: "Your chat color has been set."
+
+modifier-reset: "Your chat modifier has been reset."
+modifier-set: "Your chat modifier has been set to %modifier%."

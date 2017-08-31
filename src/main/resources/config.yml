@@ -1,0 +1,13 @@
+#Should the plugin add the prefix to every message?
+Use-Prefix: true
+
+GUI:
+  Inventory-Name: '&6&lChat Colors'
+  Color:
+    Name: '%code%&l%color%'
+    Lore:
+      - '&7&oLeft-Click to set your chat color'
+  Modifier:
+    Name: '%code%&l%modifier%'
+    Lore:
+      - '&7&oLeft-Click to set your chat modifier'
